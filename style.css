@@ -42,5 +42,11 @@
     content: "";
     width: 40px;
     height: 40px;
-    border: 15px solid ;
+    border: 15px solid rgba(var(--white-rbg-color), .2);
+    border-radius: 50%;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+    animation: cursor-animate-2 550ms infinite alternate;
 }
+
