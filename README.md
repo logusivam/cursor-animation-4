@@ -3,7 +3,6 @@
 This project demonstrates how to create a custom animated cursor using HTML, CSS, and JavaScript. The custom cursor is a circle with a center hole that zooms in and out as it moves, creating a visually engaging effect. This animation enhances the user experience by making cursor interactions more dynamic and interesting.
 
 ## Demo
-
 ![image](https://github.com/user-attachments/assets/89a54e8f-7a9e-4e79-b3bc-acfc7d3168c1)
 
 ## Features
